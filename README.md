@@ -33,3 +33,6 @@ Contributions are welcome! If you find any issues or want to enhance the softwar
    git clone https://github.com/MarioJQuezada/ATM-Software.git
 
 📧 Contact: mariojquezada@gmail.com
+
+> [!WARNING]
+> This is not a real ATM jaja
